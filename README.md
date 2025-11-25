@@ -5,6 +5,7 @@ By Chavi jaiswal  2501410011
 <img width="1906" height="965" alt="image" src="https://github.com/user-attachments/assets/d77699e1-c913-4ecb-a75b-eeabe8a821dd" />
 
 This project is a simple and responsive personal portfolio website created using HTML and CSS. It includes multiple sections such as Hero, About, Skills, Projects, and Contact. The design is clean, modern, and mobile-friendly with the help of Flexbox, Grid, animations, and media queries.
+
 Features
 
 ✔ Responsive Layout
